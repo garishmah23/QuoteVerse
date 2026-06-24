@@ -27,11 +27,12 @@ Add your project screenshot here after running the application.
 assets/
 └── screenshot.png
 ```
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-24 175539.png
+<img width="1918" height="1013" alt="Screenshot 2026-06-24 175539" src="https://github.com/user-attachments/assets/189466d9-75a2-44e2-ad7c-42cc1de600fb" />
 
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-24 175554.png
+<img width="1918" height="1015" alt="Screenshot 2026-06-24 175554" src="https://github.com/user-attachments/assets/5dc066e1-fc21-4cf6-93f3-c19ed5e9c4a1" />
 
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-24 175610.png
+<img width="1918" height="1013" alt="Screenshot 2026-06-24 175610" src="https://github.com/user-attachments/assets/f8c84f67-1880-41e9-bfde-30e5b4b3ad0e" />
+
 
 Example:
 
