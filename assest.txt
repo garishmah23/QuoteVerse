@@ -1,0 +1,22 @@
+QuoteVerse Assets
+
+1. quote_icon.png
+   - Application window icon
+   - Location: c:\Users\hp\Downloads\quote_icon.png.png 
+
+
+Color Palette:
+- Background: #121212
+- Card: #1E1E1E
+- Accent: #00ADB5
+- Hover: #008891
+- Text: #FFFFFF
+
+Fonts:
+- Segoe UI
+
+Project:
+QuoteVerse - Modern Random Quote Generator
+
+Author:
+Garishma Handa
