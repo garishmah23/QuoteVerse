@@ -27,6 +27,8 @@ Add your project screenshot here after running the application.
 assets/
 └── screenshot.png
 ```
+<img width="1254" height="1254" alt="quote_icon png" src="https://github.com/user-attachments/assets/c304e98a-716e-436f-b20a-f6e2c541df11" />
+
 <img width="1918" height="1013" alt="Screenshot 2026-06-24 175539" src="https://github.com/user-attachments/assets/189466d9-75a2-44e2-ad7c-42cc1de600fb" />
 
 <img width="1918" height="1015" alt="Screenshot 2026-06-24 175554" src="https://github.com/user-attachments/assets/5dc066e1-fc21-4cf6-93f3-c19ed5e9c4a1" />
